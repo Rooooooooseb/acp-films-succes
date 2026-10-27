@@ -17,7 +17,7 @@ Les variables ont été centrées-réduites avant l'analyse.
 ## Méthode
 - Collecte et mise en forme des données sous Excel
 - Standardisation des variables
-- ACP : 5 dimensions retenues (80,3 % de variance cumulée)
+- R (ACP) : 5 dimensions retenues (80,3 % de variance cumulée)
 - Analyse des contributions, du cercle des corrélations et de la projection des films
 - Comparaison de groupes : adaptation vs original, nationalité, type de production
 
@@ -37,6 +37,6 @@ Deux axes de succès distincts, certains films combinent les deux.
 La prédiction est possible, mais limitée.
 
 ## Contenu du dépôt
-- `presentation.pdf` : présentation complète du projet
+- [Voir la présentation](presentation.pdf)
 
 *Note : les données brutes et le code n'ont pas été conservés ; seule la présentation est disponible.*
